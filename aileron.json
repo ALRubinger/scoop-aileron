@@ -1,0 +1,17 @@
+{
+    "version": "0.0.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ALRubinger/aileron/releases/download/v0.0.5/aileron_0.0.5_windows_amd64.zip",
+            "bin": [
+                "aileron-mcp.exe",
+                "aileron.exe",
+                "aileron-server.exe"
+            ],
+            "hash": "c07fdfd506415f193b6aecc9504cb48e45e736243511a5f3b570d116e48d1cd4"
+        }
+    },
+    "homepage": "https://withaileron.ai",
+    "license": "Apache-2.0",
+    "description": "Local LLM gateway for AI agents to take consequential action without holding credentials"
+}
