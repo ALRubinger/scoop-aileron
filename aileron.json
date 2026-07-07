@@ -1,14 +1,14 @@
 {
-    "version": "0.0.22",
+    "version": "0.0.23",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ALRubinger/aileron/releases/download/v0.0.22/aileron_0.0.22_windows_amd64.zip",
+            "url": "https://github.com/ALRubinger/aileron/releases/download/v0.0.23/aileron_0.0.23_windows_amd64.zip",
             "bin": [
                 "aileron-mcp.exe",
                 "aileron.exe",
                 "aileron-server.exe"
             ],
-            "hash": "7f05bdd090b86ef6be1a3c23590a83c2e184b012e6951d5f047021e6c18b3fe0"
+            "hash": "151169bcaf2871e753ff34db3a5a24c41755fea796d3244b48deef682043c080"
         }
     },
     "homepage": "https://withaileron.ai",
